@@ -1,0 +1,1 @@
+{"model_format":"gguf","model_family":"<@MODEL>","model_families":["<@MODEL>"],"model_type":"<@SIZE>","file_type":"unknown","architecture":"amd64","os":"linux","rootfs":{"type":"layers","diff_ids":[]}}
